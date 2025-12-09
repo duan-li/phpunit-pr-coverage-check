@@ -1,5 +1,5 @@
 {
-  "name": "orbeji/phpunit-pr-coverage-check",
+  "name": "duan-li/phpunit-pr-coverage-check",
   "description": "Check the code coverage of a PR using the clover report of phpunit",
   "license": "MIT",
   "keywords": [
