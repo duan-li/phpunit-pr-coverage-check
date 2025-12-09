@@ -53,6 +53,8 @@
       "url": "https://github.com/duan-li/phpunit-pr-coverage-check"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "config": {
     "allow-plugins": {
       "ergebnis/composer-normalize": true
